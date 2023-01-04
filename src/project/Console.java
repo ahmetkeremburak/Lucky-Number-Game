@@ -13,7 +13,6 @@ public class Console {
 				Runtime.getRuntime().exec("clear");
 			}
 		} catch (IOException | InterruptedException ex) {
-			// TODO: handle exception
 		}
 	}
 }
